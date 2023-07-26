@@ -6,7 +6,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h3>Link página web</h3>
-<a href= "https://maiwest.github.io/taller-9-Full-Stack/punto-1-3/index.html/" target="_blank">Link página web</a>
+<a href= "https://maiwest.github.io/taller-9-Full-Stack/" target="_blank">Link página web</a>
 
 <h2> Punto 1: Link figma</h2>
 
